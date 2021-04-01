@@ -1,4 +1,4 @@
-,h,k,l,del_CN,del_tension,del_radius,PEN_host,PEN_impurity,IE_host,IE_impurity,EA_host,EA_impurity,E_segr
+,h,k,l,del_CN,del_tension,del_radius,PEN_host,PEN_impurity,IE_host,IE_impurity,EA_host,EA_impurity,Esegr
 214,1,1,0,5,0.3,0.03,2.2,2.28,8.3369,8.9587,0.56214,2.1251,0.27
 241,6,4,3,0,-0.6,0.21,2.2,1.54,8.967,6.8281,1.56436,0.07554,-0.59
 243,3,2,2,5,-0.95,-0.17,2.2,1.9,8.967,7.726380000000001,1.56436,1.2357799999999999,-0.88
