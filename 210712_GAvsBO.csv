@@ -1,4 +1,4 @@
-,BO,,,GA,,,BO_wo_rlx,,,BO_wo_clst,,,BO_wo_clst+wo_rlx,,,BO_wo_clst+wo_cmp,,,BO_wo_cl+wo_rlx+wo_cmp,,,BO_wo_comparison,,
+,BO,BO,BO,GA,GA,GA,BO_wo_rlx,BO_wo_rlx,BO_wo_rlx,BO_wo_clst,BO_wo_clst,BO_wo_clst,BO_wo_clst+wo_rlx,BO_wo_clst+wo_rlx,BO_wo_clst+wo_rlx,BO_wo_clst+wo_cmp,BO_wo_clst+wo_cmp,BO_wo_clst+wo_cmp,BO_wo_cl+wo_rlx+wo_cmp,BO_wo_cl+wo_rlx+wo_cmp,BO_wo_cl+wo_rlx+wo_cmp,BO_wo_comparison,BO_wo_comparison,BO_wo_comparison
 no,avg,min,max,avg,min,max,avg,min,max,avg,min,max,avg,min,max,avg,min,max,avg,min,max,avg,min,max
 1,13.898,12.6642,15.4561,12.65316,11.4754,13.2996,28.3195,27.5982,29.0408,12.42804,11.783,13.0556,26.76212,24.8372,32.7765,12.18468,11.7905,12.9234,25.1657,21.6042,28.8057,13.05776,11.9757,13.8413
 2,13.11888,12.6642,13.9299,12.34058,11.4754,12.8948,23.4596,19.8827,19.8827,12.29762,11.783,12.8921,22.71708,21.8017,25.2379,12.18468,11.7905,12.9234,24.8881,21.2323,28.8057,12.95258,11.9757,13.3715
